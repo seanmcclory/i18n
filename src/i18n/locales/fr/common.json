@@ -1,0 +1,22 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "language": "Langue"
+  },
+  "app": {
+    "title": "Vite + React",
+    "counter": {
+      "button": "le compteur est {{count}}",
+      "instruction": "Modifiez <1>src/App.tsx</1> et enregistrez pour tester HMR"
+    },
+    "learn_more": "Cliquez sur les logos Vite et React pour en savoir plus"
+  }
+}

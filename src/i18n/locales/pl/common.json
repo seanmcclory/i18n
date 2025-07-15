@@ -1,0 +1,22 @@
+{
+  "navigation": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "contact": "Kontakt"
+  },
+  "common": {
+    "loading": "Ładowanie...",
+    "error": "Wystąpił błąd",
+    "save": "Zapisz",
+    "cancel": "Anuluj",
+    "language": "Język"
+  },
+  "app": {
+    "title": "Vite + React",
+    "counter": {
+      "button": "licznik wynosi {{count}}",
+      "instruction": "Edytuj <1>src/App.tsx</1> i zapisz, aby przetestować HMR"
+    },
+    "learn_more": "Kliknij na loga Vite i React, aby dowiedzieć się więcej"
+  }
+}
